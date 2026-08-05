@@ -1,0 +1,13 @@
+[ {
+  "id" : "24100070",
+  "fullName" : "thang",
+  "phoneNumber" : "1",
+  "roomAddress" : "x",
+  "balance" : 0.0
+}, {
+  "id" : "12345678",
+  "fullName" : "Nguyễn Quốc Khánh",
+  "phoneNumber" : "0987654321",
+  "roomAddress" : "301",
+  "balance" : 0.0
+} ]

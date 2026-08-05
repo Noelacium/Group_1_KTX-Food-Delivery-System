@@ -1,0 +1,29 @@
+[ {
+  "id" : "FD-00000002",
+  "name" : "Bún bò Huế",
+  "price" : 35000.0,
+  "category" : "Bún",
+  "available" : true,
+  "quantity" : 9
+}, {
+  "id" : "FD-00000003",
+  "name" : "Phở bò tái",
+  "price" : 35000.0,
+  "category" : "Phở",
+  "available" : false,
+  "quantity" : 0
+}, {
+  "id" : "FD-00000001",
+  "name" : "Cơm gà xối mỡ",
+  "price" : 30000.0,
+  "category" : "Cơm",
+  "available" : true,
+  "quantity" : 11
+}, {
+  "id" : "FD-00000004",
+  "name" : "Trà sữa trân châu",
+  "price" : 20000.0,
+  "category" : "Nước uống",
+  "available" : true,
+  "quantity" : 7
+} ]

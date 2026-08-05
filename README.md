@@ -233,17 +233,3 @@ Frontend mặc định sẽ chạy trên `http://localhost:5173` (Vite). Đảm 
 ## ⚙️ Cấu hình
 
 Kiểm tra và chỉnh sửa `backend/src/main/resources/application.properties` để cấu hình cổng chạy, CORS (`CorsConfig.java`), hoặc các thông số khác nếu cần.
-
-## 🤝 Đóng góp
-
-1. Fork dự án
-2. Tạo nhánh mới (`git checkout -b feature/ten-tinh-nang`)
-3. Commit thay đổi (`git commit -m 'Thêm tính năng...'`)
-4. Push lên nhánh (`git push origin feature/ten-tinh-nang`)
-5. Tạo Pull Request
-
-## 📄 Giấy phép
-
-Dự án hiện chưa có giấy phép cụ thể. Thêm file `LICENSE` nếu bạn muốn công khai điều khoản sử dụng.
-
-## 👤 Tác giả
